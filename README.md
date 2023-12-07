@@ -2,7 +2,7 @@
 # 💫About Me :
 - An artificial intelligence developer, passionate about cutting-edge technology and solving real-world problems.
 - 📖 Computer Vision, Deep Learning, Machine Learning.
-- 📢 Research Interest > computer vision, Object Detection, Classification, Image Processing , NLP , and its application.
+- 📢 Research Interest > NLP, Machine Translation, LLM's RAG and its application to low resource languages.
 - 🌱 I’m currently Research Engineer
 - 📫 How to reach me: Email - ab.niazi.pk@gmail.com
 - 💞️ I’m looking to collaborate on Research Problem
